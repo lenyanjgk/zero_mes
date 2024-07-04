@@ -39,7 +39,7 @@ SOP是针对产品的制造过程，是指导你如何做产品，它的编制�
 
 项目主体骨架基于`Spring Cloud Alibaba`生态体系，使用`MySQL`进行数据持久化管理，采用`Vue3`生态体系与`Element Puls UI`框架完成前端制作，同时项目提供`C++`微服务开发解决方案与集成、使用`Jenkins`实现`CD/CI`。
 
-![](./documents/00、preview-pic/architecture.jpg)
+![](https://sky-take-out-jgk.oss-cn-guangzhou.aliyuncs.com/architecture.jpg)
 
 ## 项目结构说明
 > `zero-one-mes`  
